@@ -1,4 +1,4 @@
-My first repos
+My first repository
 
 
 # This is a heading
