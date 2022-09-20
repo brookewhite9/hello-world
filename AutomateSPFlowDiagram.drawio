@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2022-09-20T17:17:53.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5CEwbleasW7jrQMIfELo" version="20.3.3" type="github">
+  <diagram id="QyD7qpBvo0WBH20jbU55" name="Page-1">
+    <mxGraphModel dx="3792" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="80" width="1020" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#6c8ebf;fillColor=#EBF8FF;" parent="1" vertex="1">
+          <mxGeometry x="-95" y="120" width="250" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="665" y="590" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="310" y="260" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-6" value="&lt;h5 style=&quot;font-size: 12px;&quot;&gt;Service Principal Git Repo&amp;nbsp;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="310" y="290" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-7" value="&lt;h4&gt;Conveyor Belt Workflow (Ansible )&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="147.5" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-8" value="sp_manifest&lt;br&gt;.yaml" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="352.5" y="320" width="75" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="350" as="sourcePoint" />
+            <mxPoint x="240" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-10" value="sp_manifest&lt;br&gt;.yaml" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry y="370" width="75" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-11" value="Request Form/ Pull Request" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#d79b00;fillColor=#FFDEEA;" parent="1" vertex="1">
+          <mxGeometry y="177.5" width="75" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#6c8ebf;fillColor=#EBF8FF;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="250" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-13" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="358.25" as="sourcePoint" />
+            <mxPoint x="180" y="358.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-14" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Checkout&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;manifest&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="5tUk5f--ei07nLAZrOZ8-13" vertex="1" connectable="0">
+          <mxGeometry x="0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-15" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;Checkout&lt;br&gt;&amp;nbsp;manifest.yaml&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-16" value="&lt;h4&gt;SP Automation CI Pipeline (ADO)&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="635" y="147.5" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-17" value="sp_manifest&lt;br&gt;.yaml" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="707.5" y="177.5" width="75" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-18" value="jinja templates&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="707.5" y="380" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-19" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="743.88" y="510" as="sourcePoint" />
+            <mxPoint x="743.88" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-20" value="jinja templates &lt;br style=&quot;font-size: 12px;&quot;&gt;produce &lt;br style=&quot;font-size: 12px;&quot;&gt;terraform files" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="5tUk5f--ei07nLAZrOZ8-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-21" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.13" y="550" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-22" value="terraform files" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="711.88" y="650" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-23" value="&lt;h5 style=&quot;font-size: 12px;&quot;&gt;Terraform Repo&amp;nbsp;&lt;/h5&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="667.5" y="620" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="280" as="sourcePoint" />
+            <mxPoint x="37" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Read info/ details from&lt;br&gt;&amp;nbsp;request and update manifest&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#EBF8FF;" parent="5tUk5f--ei07nLAZrOZ8-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-26" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="743.88" y="280" as="sourcePoint" />
+            <mxPoint x="743.88" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-27" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Hydrates&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;&amp;nbsp;jinjatemplates&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=#EBF8FF;" parent="5tUk5f--ei07nLAZrOZ8-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.0444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-28" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tUk5f--ei07nLAZrOZ8-29" value="Pushback &lt;br style=&quot;font-size: 12px;&quot;&gt;updated &lt;br style=&quot;font-size: 12px;&quot;&gt;manifest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontSize=12;" parent="5tUk5f--ei07nLAZrOZ8-28" vertex="1" connectable="0">
+          <mxGeometry x="0.2364" relative="1" as="geometry">
+            <mxPoint x="-11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
