@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T18:14:02.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZsBPxyAnOEs7MXZq1dGS" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T18:14:43.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="npXTE7R2HH9GUSqTsmpU" version="20.3.6" type="github">
   <diagram id="5fx1KnYHxtjRHMJQop8Q" name="Page-1">
     <mxGraphModel dx="2912" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
         <mxCell id="v7suImzw2IKG3KuPnK13-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1420" y="772.5" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="sDYXM3PJCPHO03Bxwu59-13" value="blobstores.dat" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFCCFF;strokeColor=#6c8ebf;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="sDYXM3PJCPHO03Bxwu59-13" value="blobstores.dat" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1460" y="840" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sDYXM3PJCPHO03Bxwu59-18" value="&lt;h4 style=&quot;font-size: 12px;&quot;&gt;Libblob (ADO)&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
